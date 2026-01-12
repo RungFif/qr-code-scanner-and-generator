@@ -68,11 +68,12 @@ flutter:
   
   # Daftar folder assets (akhiri dengan / agar seluruh isi folder terbaca)
   assets:
-    - assets/images
-    # Jika ada file spesifik:
-    # - assets/images/splash.png
-  
-  # Custom font: Manrope (Regular, Medium, SemiBold, Bold)
+    - assets/images/splash.png
+    - assets/fonts/Manrope-Bold.ttf
+    - assets/fonts/Manrope-Medium.ttf
+    - assets/fonts/Manrope-Regular.ttf
+    - assets/fonts/Manrope-SemiBold.ttf
+    
   fonts:
     - family: Manrope
       fonts:
