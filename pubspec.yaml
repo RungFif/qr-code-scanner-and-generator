@@ -69,6 +69,7 @@ flutter:
   # Daftar folder assets (akhiri dengan / agar seluruh isi folder terbaca)
   assets:
     - assets/images/splash.png
+    - assets/images/
     - assets/fonts/Manrope-Bold.ttf
     - assets/fonts/Manrope-Medium.ttf
     - assets/fonts/Manrope-Regular.ttf
